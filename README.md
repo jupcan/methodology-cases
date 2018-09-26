@@ -1,2 +1,2 @@
-# methodology_cases
+# methodology-cases
 programming methodology lab project
